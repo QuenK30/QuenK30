@@ -1,6 +1,4 @@
 - 👋 Hi, I’m QuenK
-- 👀 I’m (big) noobie
-- 🌱 I’m currently learning Java / Lua
 - 📫 How to reach me ? Discord: QuenK#2170
 
 <!---
