@@ -1,7 +1,7 @@
 # Bienvenue sur mon profil GitHub ! 👋
 
 ## À propos de moi 👨‍💻
-Salut ! Je suis [QuenK30](https://github.com/QuenK30), passionné par la programmation et le développement de logiciels. J'aime explorer de nouvelles technologies et contribuer à des projets open source.
+Salut ! Je suis [Quentin](https://github.com/QuenK30), passionné par la programmation et le développement de logiciels. J'aime explorer de nouvelles technologies et contribuer à des projets open source.
 
 ## Compétences 
 - Langages de programmation : Java, Lua
