@@ -4,7 +4,7 @@
 Salut ! Je suis [Quentin](https://github.com/QuenK30), passionné par la programmation et le développement de logiciels. J'aime explorer de nouvelles technologies et contribuer à des projets open source.
 
 ## Compétences 
-- Langages de programmation : Java, Lua
+- Langages de programmation : Java, Lua, HTML/CSS, PHP
 - Bases de données : MySQL, SQLite
 - Outils de développement : Git, VS Code, IntelliJ IDEA
 
