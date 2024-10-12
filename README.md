@@ -17,8 +17,7 @@ Salut ! Je suis [Quentin](https://github.com/QuenK30), passionné par la program
 ## Contact
 N'hésitez pas à me contacter par discord: quenk_ pour toute collaboration ou discussion.
 
-## Liens
-- [Site Web Personnel](https://quentinmn.fr) (Soon)
+
 <!---
 QuenK30/QuenK30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
