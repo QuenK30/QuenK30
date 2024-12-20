@@ -9,10 +9,6 @@ Salut ! Je suis [Quentin](https://github.com/QuenK30), passionné par la program
 - Bases de données : MySQL, SQLite
 - Outils de développement : Git, VS Code, IntelliJ IDEA
 
-## Statistiques
-[![Mes stats](https://github-readme-stats.vercel.app/api?username=QuenK30&show_icons=true&theme=dark)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuenK30&layout=compact&theme=dark)]
-
 ## Projets (Soon)
 
 ## Contact
