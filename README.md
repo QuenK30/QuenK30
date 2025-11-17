@@ -6,7 +6,7 @@ Salut ! Je suis [Quentin](https://github.com/QuenK30), passionné par la program
 ## Compétences 
 - Langages de programmation : Java, Lua, PHP
 - Développement web
-- Bases de données : MySQL, SQLite
+- Bases de données : MySQL, SQLite, PostgreSQL
 - Outils de développement : Git, VS Code, IntelliJ IDEA
 
 ## Projets (Soon)
