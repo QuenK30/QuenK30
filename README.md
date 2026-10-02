@@ -25,7 +25,7 @@ Le détail est sur [quentinmn.fr/fr/projects](https://quentinmn.fr/fr/projects).
 - Sur [LinkedIn](https://www.linkedin.com/in/quentinmn/)
 - Sur Discord : `quenk_`
 
-*English: I'm Quentin Monin (QMN), a fullstack developer based in Vergèze, France. Web apps with Symfony and PostgreSQL, mobile apps with React Native, game mods and plugins. See [quentinmn.fr/en](https://quentinmn.fr/en/).*
+*English: I'm Quentin Monin (QMN), a fullstack developer based in France. Web apps with Symfony and PostgreSQL, mobile apps with React Native, game mods and plugins. See [quentinmn.fr/en](https://quentinmn.fr/en/).*
 
 
 <!---
